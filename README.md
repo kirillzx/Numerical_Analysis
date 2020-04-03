@@ -6,3 +6,4 @@ Realization of several methods of algebra and analysis.
 4. Trapezoid method for solving integrals
 5. Rotation method
 6. Pade approximation
+7. Best mean-square approximation polynomial
