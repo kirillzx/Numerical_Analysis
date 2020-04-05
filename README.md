@@ -7,3 +7,4 @@ Realization of several methods of algebra and analysis.
 5. Rotation method
 6. Pade approximation
 7. Best mean-square approximation polynomial
+8. Interpolation with Linear and Quadratic splines
