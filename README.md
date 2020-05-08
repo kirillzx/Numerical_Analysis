@@ -12,3 +12,4 @@ Realization of several methods of algebra and analysis.
 10. Chebyshev interpolation for nonlinear eqs
 11. Quadratic interpolation for nonlinear eqs
 12. Partial eigenvalue problem (Coordinate relaxation)
+13. Differential equations (Runge-Kutt)
