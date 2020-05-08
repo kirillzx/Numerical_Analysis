@@ -13,3 +13,4 @@ Realization of several methods of algebra and analysis.
 11. Quadratic interpolation for nonlinear eqs
 12. Partial eigenvalue problem (Coordinate relaxation)
 13. Differential equations (Runge-Kutt)
+14. Gradients methods (minimal residuals, descent, conjugate gradients)
