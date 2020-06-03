@@ -15,3 +15,4 @@ Realization of several methods of algebra and analysis.
 13. Differential equations (Runge-Kutt)
 14. Gradients methods (minimal residuals, descent, conjugate gradients)
 15. Cubature formula (Interpolation) and Newton's quadrature
+16. Telescopic method with Chebyshev interpolation
